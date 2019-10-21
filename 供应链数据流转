@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-21T10:17:31.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="blFo5Lh97JJHO9JAlaqQ" version="12.1.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-21T10:19:24.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="fphQW-cSeoj3jq-I3axR" version="12.1.3" type="github" pages="1">
   <diagram id="Q46Z7TpPmmtGenwNKbgM" name="第 1 页">
     <mxGraphModel dx="1960" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
         <mxCell id="M8lyrh7boo0pZJiEYQ3o-25" value="Business&lt;br&gt;Realtime Task" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="667" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="M8lyrh7boo0pZJiEYQ3o-29" value="生成数据快照" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="M8lyrh7boo0pZJiEYQ3o-29" value="Data snapshot" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="87" y="727" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="Op6OlkdFp-sZ02DbNSsq-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M8lyrh7boo0pZJiEYQ3o-35" target="M8lyrh7boo0pZJiEYQ3o-43">
@@ -97,7 +97,7 @@
         <mxCell id="Op6OlkdFp-sZ02DbNSsq-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M8lyrh7boo0pZJiEYQ3o-33" target="M8lyrh7boo0pZJiEYQ3o-44">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="M8lyrh7boo0pZJiEYQ3o-33" value="Business&lt;br&gt;D" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="M8lyrh7boo0pZJiEYQ3o-33" value="Business&lt;br&gt;Distributed tasks" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="787" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="M8lyrh7boo0pZJiEYQ3o-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="M8lyrh7boo0pZJiEYQ3o-40" edge="1">
@@ -108,13 +108,13 @@
         <mxCell id="M8lyrh7boo0pZJiEYQ3o-40" value="Business&lt;br&gt;Schedule Task" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-70" y="667" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="M8lyrh7boo0pZJiEYQ3o-43" value="生成数据快照" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
+        <mxCell id="M8lyrh7boo0pZJiEYQ3o-43" value="Data snapshot" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
           <mxGeometry x="87" y="757" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="Op6OlkdFp-sZ02DbNSsq-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M8lyrh7boo0pZJiEYQ3o-44" target="Op6OlkdFp-sZ02DbNSsq-10">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="M8lyrh7boo0pZJiEYQ3o-44" value="生成数据快照..." style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" parent="1" vertex="1">
+        <mxCell id="M8lyrh7boo0pZJiEYQ3o-44" value="Data snapshot" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" parent="1" vertex="1">
           <mxGeometry x="87" y="787" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="M8lyrh7boo0pZJiEYQ3o-47" value="Update Data" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
